@@ -1,0 +1,44 @@
+header {
+  .dimensional {
+    .name {
+      color: #41ac9c;
+      font-family: 'Roboto', sans-serif;
+    }
+  }
+
+  .surname {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+  }
+}
+
+@media (min-width: 0) {
+  header {
+    .dimensional
+      .name {
+        font-size: 15em;
+        text-shadow: 8px 8px 0px white, 16px 16px 0px #c0d6d3;
+        line-height: 0.8em;
+      }
+    }
+
+    .surname {
+      font-size: 5em;
+    }
+}
+
+@media (min-width: 576px) {
+  
+}
+
+@media (min-width: 768px) {
+  
+}
+
+@media (min-width: 992px) {
+  
+}
+
+@media (min-width: 1200px) {
+  
+}
