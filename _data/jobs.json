@@ -1,9 +1,9 @@
 [
   {
-    "employee" : "Fidor TecS AG",
+    "employer" : "Fidor TecS AG",
     "title" : "Software Architect / Solution Architect",
     "date" :   "Nov 2014 – Present",
-    "location" : "Munich - Germany",
+    "location" : "Munich, Germany",
     "roles" : [
       {
         "position" : "Consultant",
@@ -31,15 +31,81 @@
   },
   {
     "title" : "Senior developer, Team Lead",
-    "employee" : "Fidor TecS AG",
+    "employer" : "Fidor TecS AG",
     "date" : "Oct 2013 – Oct 2014",
-    "location" : "Munich - Germany",
+    "location" : "Munich, Germany",
     "roles" : [
       {
         "position" : "Senior developer",
         "responsibilities" : [
           "Team lead for banking products launch in Russian market,",
           "development of financial products for German market"
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "Senior Ruby on Rails and Javascript developer",
+    "employer" : "LINE Communications",
+    "date" : "Oct 2011 – Sep 2013",
+    "location" : "London, United Kingdom",
+    "roles" : [
+      {
+        "position" : "Senior developer",
+        "responsibilities" : [
+          "attending workshops, preparing mockups and prototypes to help finalize the commercial offers,",
+          "development of new functionality to existing LMS applications,",
+          "Implementation of new modular learning management system (LMS) with SCORM 1.2 standard,",
+          "acting as DevOps for already running on-premises applications,",
+          "development of SCORM courses for various blue chip clients, UK NHS, Jaguar Land Rover, British Airways"
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "Ruby on Rails developer, UI & UX designer",
+    "employer" : "Railslove GmbH",
+    "date" : "Feb 2011 – Oct 2011",
+    "location" : "Köln, Germany",
+    "roles" : [
+      {
+        "position" : "Frontend developer, UX & UI designer",
+        "responsibilities" : [
+          "Senior developer,",
+          "Senior user interface designer,",
+          "participating in workshops with business clients,",
+          "conducting UX tests, transforming gathered data into application improvements"
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "developer, interface designer",
+    "employer" : "STUDITEMPS GmbH",
+    "date" : "Aug 2010 – Apr 2011",
+    "location" : "Köln, Germany",
+    "roles" : [
+      {
+        "position" : "front-end Ruby on Rails developer,",
+        "responsibilities" : [
+          "implementation of new requirements,",
+          "support in resolving functionality problems,",
+          "leading project based on Agile methodology."
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "developer",
+    "employer" : "Volcanic",
+    "date" : "Dec 2010 – Jan 2011",
+    "location" : "Stockport, United Kingdom",
+    "roles" : [
+      {
+        "position" : "Backend & Frontend developer",
+        "responsibilities" : [
+          "ruby on rails developer,",
+          "managing few small projects."
         ]
       }    
     ]

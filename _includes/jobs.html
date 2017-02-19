@@ -5,9 +5,15 @@
       <h2>
         {{ job.title }}
       </h2>
-      <h3>{{ job.employee }}</h3>
-      <h4>{{ job.date }}</h4>
-      <h4>{{ job.location }}</h4>
+      <h3>{{ job.employer }}</h3>
+      <h4>
+        <i class="fa fa-calendar-o fa-fw light-green" aria-hidden="true"></i>
+        {{ job.date }}
+      </h4>
+      <h4>
+        <i class="fa fa-map-marker fa-fw light-green" aria-hidden="true"></i>
+        {{ job.location }}
+      </h4>
     </header>
     <p>
       {% for role in job.roles %}
