@@ -1,0 +1,25 @@
+{% for job in site.data.jobs %}
+
+  <article>
+    <header>
+      <h2>
+        {{ job.title }}
+      </h2>
+      <h3>{{ job.employee }}</h3>
+      <h4>{{ job.date }}</h4>
+      <h4>{{ job.location }}</h4>
+    </header>
+    <p>
+      {% for role in job.roles %}
+        <h5>{{ role.position }}</h5>
+        <ul>
+          {% for resp in role.responsibilities %}
+            <li>{{ resp }}</li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </p>
+
+  </article>
+
+{% endfor %}

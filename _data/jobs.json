@@ -1,0 +1,47 @@
+[
+  {
+    "employee" : "Fidor TecS AG",
+    "title" : "Software Architect / Solution Architect",
+    "date" :   "Nov 2014 – Present",
+    "location" : "Munich - Germany",
+    "roles" : [
+      {
+        "position" : "Consultant",
+        "responsibilities" : [
+          "Lead solution architect in the software implementation program for UAE client"
+        ]
+      },
+      {
+        "position" : "Software architect ",
+        "responsibilities" : [
+          "design and architect standard Digital Banking solutions, considering functionality, data, security, integration, infrastructure and performance,",
+          "card payments, and card processor integrations,",
+          "consultant for system integration,",
+          "Provide leadership in Software Architecture, working closely with our product management and engineering teams,"
+        ]
+      },
+      {
+        "position" : "Product owner",
+        "responsibilities" : [
+          "analyzing business requirements and transferring them to technical requirements,",
+          "allowing vision of others to be conveyed to the scrum teams"
+        ]
+      },
+    ]
+  },
+  {
+    "title" : "Senior developer, Team Lead",
+    "employee" : "Fidor TecS AG",
+    "date" : "Oct 2013 – Oct 2014",
+    "location" : "Munich - Germany",
+    "roles" : [
+      {
+        "position" : "Senior developer",
+        "responsibilities" : [
+          "Team lead for banking products launch in Russian market,",
+          "development of financial products for German market"
+        ]
+      }    
+    ]
+  }
+]
