@@ -6,25 +6,46 @@
     "location" : "Munich, Germany",
     "roles" : [
       {
-        "position" : "Consultant",
+        "position" : "consultant",
         "responsibilities" : [
           "Lead solution architect in the software implementation program for UAE client"
+        ],
+        "tags" : [
+          "pre-sales",
+          "mvp",
+          "commercial offers"
         ]
       },
       {
-        "position" : "Software architect ",
+        "position" : "software architect ",
         "responsibilities" : [
           "design and architect standard Digital Banking solutions, considering functionality, data, security, integration, infrastructure and performance,",
           "card payments, and card processor integrations,",
           "consultant for system integration,",
           "Provide leadership in Software Architecture, working closely with our product management and engineering teams,"
+        ],
+        "tags" : [
+          "broker architectural",
+          "distributed systems",
+          "break monolith",
+          "microservices",
+          "loose coupling",
+          "api",
+          "integrations"
         ]
       },
       {
-        "position" : "Product owner",
+        "position" : "product owner",
         "responsibilities" : [
           "analyzing business requirements and transferring them to technical requirements,",
           "allowing vision of others to be conveyed to the scrum teams"
+        ],
+        "tags" : [
+          "agile",
+          "product owner",
+          "scrum",
+          "kanban",
+          "refirment",
         ]
       },
     ]
@@ -36,10 +57,18 @@
     "location" : "Munich, Germany",
     "roles" : [
       {
-        "position" : "Senior developer",
+        "position" : "senior developer",
         "responsibilities" : [
           "Team lead for banking products launch in Russian market,",
           "development of financial products for German market"
+        ],
+        "tags" : [
+          "ruby",
+          "rails",
+          "mysql",
+          "soap",
+          "prototype pattern",
+          "adapter pattern"
         ]
       }    
     ]
@@ -51,7 +80,7 @@
     "location" : "London, United Kingdom",
     "roles" : [
       {
-        "position" : "Senior developer",
+        "position" : "senior developer",
         "responsibilities" : [
           "attending workshops, preparing mockups and prototypes to help finalize the commercial offers,",
           "development of new functionality to existing LMS applications,",
@@ -69,7 +98,7 @@
     "location" : "Köln, Germany",
     "roles" : [
       {
-        "position" : "Frontend developer, UX & UI designer",
+        "position" : "front-end developer, UX & UI designer",
         "responsibilities" : [
           "Senior developer,",
           "Senior user interface designer,",
@@ -102,10 +131,44 @@
     "location" : "Stockport, United Kingdom",
     "roles" : [
       {
-        "position" : "Backend & Frontend developer",
+        "position" : "backend & frontend developer",
         "responsibilities" : [
           "ruby on rails developer,",
           "managing few small projects."
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "Software Developer & Graphic designer",
+    "employer" : "AKRA GmbH",
+    "date" : "Feb 2008 – Oct 2010",
+    "location" : "Hamburg, Germany",
+    "roles" : [
+      {
+        "position" : "junior developer, interface specialist, graphic designer",
+        "responsibilities" : [
+          "scrum master and leader of internal and external projects,",
+          "responsible for incremental delivery on projects for various clients,",
+          "participation in workshop's,",
+          "Ruby on Rails developer,",
+          "realizing and managing projects based on agile methodology."
+        ]
+      }    
+    ]
+  },
+  {
+    "title" : "Graphic designer",
+    "employer" : "MANUS Student Foundation",
+    "date" : "Sep 2004 – Jun 2005",
+    "location" : "Wroclaw, Poland",
+    "roles" : [
+      {
+        "position" : "Graphic designer",
+        "responsibilities" : [
+          "volunteer work for studen organization,",
+          "designning brochures and leaflets for various organization project,",
+          "team lead of designers,"
         ]
       }    
     ]
